@@ -1,2 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+from asciimagic.lib import try_me, return_dragon
+
+return_dragon()
